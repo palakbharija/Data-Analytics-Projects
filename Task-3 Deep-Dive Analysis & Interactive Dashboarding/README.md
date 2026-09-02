@@ -67,7 +67,6 @@ The PBIX dashboard file is included in this repository.
 - Dataset – Cleaned sales dataset
 - Dashboard – Power BI dashboard
 - Report – Deep-dive analysis report
-- Screenshots – Dashboard preview
 
 ## Conclusion
 
